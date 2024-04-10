@@ -23,4 +23,4 @@ Además del contenido en este repositorio, pueden encontrar la teoría asociada 
 
 ## Consultas
 
-Si tienen alguna duda o consulta, pueden comunicarse a través de la plataforma de Escuela de Programación en Discord, creando un ticket en el foro de ayuda asi todos podemos contribuir a la solución de la duda.
+Si tienen alguna duda o consulta, pueden comunicarse a través de la plataforma de Escuela de Programación en Discord, creando un ticket en el foro de ayuda asi todos podemos contribuir a la solución de la duda
